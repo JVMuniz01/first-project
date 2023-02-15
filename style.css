@@ -1,0 +1,45 @@
+.linkar{
+    color:aqua;
+    text-decoration: unset;
+}
+.linkar:hover{
+    color: red;
+    text-decoration: underline;
+}
+body{
+    background-image: url("a7x.jfif");
+
+}
+p, h1{
+    color: white;
+}
+#c1{
+    font-style:oblique;
+}
+#pulo{
+    position: relative;
+    top: 250px;
+}
+#c2{
+    position: relative;
+    top: 35px;
+}
+#c4{
+    position: relative;
+    top: 95px;
+}
+#c5{
+    position: relative;
+    top: 40px;
+}
+#nigthmare{
+    font-size: 60px;
+    position: relative;
+    top: 235px;
+    left: 275px;
+    font-style:oblique;
+}
+#music{
+    position: relative;
+    top: 175px;
+}
