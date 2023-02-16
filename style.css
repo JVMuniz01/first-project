@@ -3,7 +3,7 @@
     text-decoration: unset;
 }
 .linkar:hover{
-    color: red;
+    color: green;
     text-decoration: underline;
 }
 body{
